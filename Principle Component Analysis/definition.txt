@@ -1,0 +1,1 @@
+PCA : It is a method to find out the most important features in a dataset. These features are principle components of our datasets
